@@ -9,7 +9,9 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "room.ts"
+        "room.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
